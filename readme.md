@@ -50,6 +50,6 @@ at [native code]:null in flushedQueue
 at [native code]:null in invokeCallbackAndReturnFlushedQueue
 ```
 
-![preview](https://github.com/hanford/pnpm-expo-42/blob/master/weird.gif)
+![preview](https://github.com/hanford/pnpm-expo-42/blob/main/weird.gif)
 
 Maybe related: https://github.com/pnpm/pnpm/issues/3321
