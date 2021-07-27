@@ -1,0 +1,19 @@
+node_modules
+.idea
+.dev/
+
+./packages/mobile-app/node_modules/**/*
+./packages/mobile-app/.expo/*
+./packages/mobile-app/npm-debug.*
+./packages/mobile-app/*.jks
+./packages/mobile-app/*.p8
+./packages/mobile-app/*.p12
+./packages/mobile-app/*.key
+./packages/mobile-app/*.mobileprovision
+./packages/mobile-app/*.orig.*
+./packages/mobile-app/web-build/
+
+# macOS
+.DS_Store
+
+.vscode
